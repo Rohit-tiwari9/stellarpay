@@ -4,6 +4,7 @@ A beginner-friendly, production-ready dApp for sending XLM on the **Stellar Test
 
 > ✅ Satisfies Stellar White Belt Level 1 requirements
 > http://localhost:5173/
+> depolyment link : https://stellarpay-delta.vercel.app/
 
 ---
 
