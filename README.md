@@ -3,6 +3,7 @@
 A beginner-friendly, production-ready dApp for sending XLM on the **Stellar Testnet** built with **React + Vite**, **Tailwind CSS**, and the **Freighter wallet**.
 
 > ✅ Satisfies Stellar White Belt Level 1 requirements
+> http://localhost:5173/
 
 ---
 
@@ -113,11 +114,16 @@ npm run dev
 
 ## 📸 Screenshots
 
-> Add screenshots here after running the app locally.
-
-| Connected Wallet | Send Payment | Success |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+Homepage :
+<img width="1535" height="771" alt="Homepage" src="https://github.com/user-attachments/assets/e700734a-00fc-4684-a26c-afdcecce2c35" />
+Wallet Connecting:
+<img width="1536" height="763" alt="Wallet C onneting" src="https://github.com/user-attachments/assets/868a9e06-4397-4d79-abe8-8d24dc729750" />
+Homepage II:
+<img width="1536" height="772" alt="Homepage II" src="https://github.com/user-attachments/assets/60aeeb29-95c8-43ef-b9f4-c8d133db7c15" />
+Transcation :
+<img width="1536" height="775" alt="Transcation" src="https://github.com/user-attachments/assets/969f8d66-7dce-4f1c-bfc0-b5c3473d6c71" />
+Error Handling:
+<img width="1535" height="768" alt="Error Handling" src="https://github.com/user-attachments/assets/6872b999-fe87-4561-81d3-9c2eef31a1a4" />
 
 ---
 
